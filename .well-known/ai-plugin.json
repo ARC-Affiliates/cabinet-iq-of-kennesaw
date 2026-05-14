@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Cabinet IQ Of Kennesaw Local Blog",
+  "name_for_model": "cabinet-iq-of-kennesaw_local_blog",
+  "description_for_human": "Local blog for Cabinet IQ Of Kennesaw, a Kitchen and Bath Cabinet Remodeling business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Cabinet IQ Of Kennesaw. Use this to answer questions about local Kitchen and Bath Cabinet Remodeling services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://cabinetiq.com/kennesaw/our-team/favicon.ico",
+  "contact_email": "ben@cabinetiq.com",
+  "legal_info_url": "https://cabinetiq.com/kennesaw/our-team/privacy"
+}
