@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://localblog.cabinetiq.com/blog/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://localblog.cabinetiq.com/faq/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://localblog.cabinetiq.com/glossary/</loc>
-    <lastmod>2026-06-18</lastmod>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -76,12 +76,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://localblog.cabinetiq.com/blog/quartz-vs-granite-countertops-in-kennesaw-which-wins-2026/</loc>
-    <lastmod>2026-06-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://localblog.cabinetiq.com/blog/shaker-cabinets-in-kennesaw-2026-buyers-guide-faq/</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -102,6 +96,18 @@
   <url>
     <loc>https://localblog.cabinetiq.com/blog/what-should-you-ask-a-kennesaw-kitchen-designer-in-2026/</loc>
     <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.cabinetiq.com/blog/quartz-vs-granite-countertops-in-kennesaw-which-wins-2026/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://localblog.cabinetiq.com/blog/kitchen-island-cabinets-in-kennesaw-2026-design-guide/</loc>
+    <lastmod>2026-06-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
